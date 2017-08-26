@@ -1,0 +1,19 @@
+{
+  "name": "http-hb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "content-types.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "hanbit": "echo \"hanbit\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
